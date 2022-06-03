@@ -1,1 +1,1 @@
-# Modular DEX a project for NEAR MetaBUILD Hackathon
+# Modular DEX a project for Wintermute Hackathon
